@@ -59,14 +59,14 @@ print(norm_of_matrix)
 ## Output:
 ### 1-Norm of a Matrix
 
-![Screenshot 2023-12-29 044144](https://github.com/Bhagath118/Norm-of-a-matrix/assets/147473779/4f09a4e9-eff3-4746-9cb8-50fa9999f063)
+![Screenshot 2023-12-29 044144](https://github.com/Bhagath118/Norm-of-a-matrix/assets/147473779/4f09a4e9-eff3-4746-9cb8-50fa9999f063).
 
 
 
 
 ### 2-Norm of a Matrix
 
-![Screenshot 2023-12-29 044157](https://github.com/Bhagath118/Norm-of-a-matrix/assets/147473779/7789e804-366f-4cde-898b-d76556f5e24f)
+![Screenshot 2023-12-29 044157](https://github.com/Bhagath118/Norm-of-a-matrix/assets/147473779/7789e804-366f-4cde-898b-d76556f5e24f).
 
 
 
