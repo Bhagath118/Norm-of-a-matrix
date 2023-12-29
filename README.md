@@ -55,7 +55,7 @@ print(norm_of_matrix)
 
 
 
-```
+
 ## Output:
 ### 1-Norm of a Matrix
 
